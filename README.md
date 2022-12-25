@@ -1,4 +1,4 @@
-# Fake News Prediction
+# 🗞📺 Fake News Prediction
 
 ### Problem Statement 
 
