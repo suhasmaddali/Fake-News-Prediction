@@ -10,7 +10,7 @@ Fake news, or disinformation, is a growing problem in today's society. It can sp
 
 ## Challenges
 
-There is a lot of text received by people in the form of media and news. Understanding the text and giving it a vectorial representation before they could be used for machine learning could help reduce the spread of fake news. There could be challenges that arise when trying to build an end-to-end machine learning system that is capable of accurately predicting fake news. Below are some challenges highlights that give a good idea:
+There is a lot of text received by people in the form of media and news. Understanding the text and giving it a vectorial representation before they could be used for machine learning reduces the spread of fake news. However, there are challenges that arise when trying to build an end-to-end machine learning system which is capable of accurately predicting fake news. Below are some challenges that are faced for designing a fake news classifier:
 
 1. Lack of high-quality labeled data
 2. Evolving nature of fake news
