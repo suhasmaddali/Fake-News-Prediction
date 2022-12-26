@@ -22,14 +22,6 @@ There is a lot of text received by people in the form of media and news. Underst
 
 It is a method at which we explore the data to find meaningful patterns and insights. As a result, these insights could be reported to the business or the data could be modified to accurately represent the real-world scenario. Exploratory Data Analysis (EDA) was performed to understand the number of fake news rows. The count for all the topics of articles were generated before classifying whether a given text is fake or real. Missing values were also identified.
 
-## Input
-
-The input to the model will be a collection of news articles, each with a title and body text.
-
-## Output
-
-The output of the model will be a binary classification for each news article, indicating whether it is fake or real.
-
 ## Constraints
 
 The model should be able to handle a diverse range of news articles, including those with different writing styles, language, and formats. It should also be able to adapt to changes in the way fake news is presented over time.
