@@ -18,6 +18,10 @@ There is a lot of text received by people in the form of media and news. Underst
 4. Limited generalizability
 5. Ethical considerations
 
+## Exploratory Data Analysis (EDA)
+
+It is a method at which we explore the data to find meaningful patterns and insights. As a result, these insights could be reported to the business or the data could be modified to accurately represent the real-world scenario. 
+
 ## Input
 
 The input to the model will be a collection of news articles, each with a title and body text.
