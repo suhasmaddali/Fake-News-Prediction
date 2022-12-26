@@ -10,7 +10,7 @@ Fake news, or disinformation, is a growing problem in today's society. It can sp
 
 ## Challenges
 
-
+There is a lot of text received by people in the form of media and news. Understanding the text and giving it a vectorial representation before they could be used for machine learning could help reduce the spread of fake news. 
 
 ## Input
 
