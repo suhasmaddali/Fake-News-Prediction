@@ -8,8 +8,9 @@ Fake news, or disinformation, is a growing problem in today's society. It can sp
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Newspaper%20fake%20news%20repository%20image.jpg" width = 1000 height = "600"/>
 
-### Objective
-Develop a machine learning model that can accurately identify fake news in a given dataset.
+## Challenges
+
+
 
 ## Input
 
