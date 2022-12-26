@@ -36,3 +36,7 @@ The performance of the model will be evaluated using standard classification met
 * [__F1 Score__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)
 * [__Classification Report__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
 * [__Confusion Matrix__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+
+## Outcomes
+
+Using machine learning for fake news classification can result in the creation of a model that can automatically identify fake news and flag it for further review or moderation. This can help to reduce the spread of false or misleading information and protect the integrity of online content. In general, well-trained machine learning models can be effective at identifying fake news with a high degree of accuracy. However, it is important to note that no machine learning model is perfect, and there will always be a certain degree of error or uncertainty when using machine learning for fake news classification. It is also important to consider the ethical implications of using machine learning for fake news detection and to use the technology responsibly.
