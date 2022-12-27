@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Fake news, or disinformation, is a growing problem in today's society. It can spread quickly through social media and other online platforms, leading to confusion, mistrust, and even harm. In an effort to combat this issue, the use of machine learning techniques for fake news detection has gained popularity. However, detecting fake news is a complex task that involves understanding the context, content, and intent of the information being shared.
+__Fake news__, or disinformation, is a growing problem in today's society. It can spread quickly through __social media__ and other online platforms, leading to confusion, mistrust, and even harm. In an effort to combat this issue, the use of machine learning techniques for fake news detection has gained popularity. However, detecting fake news is a complex task that involves understanding the context, content, and intent of the information being shared.
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Newspaper%20fake%20news%20repository%20image.jpg" width = 1000 height = "600"/>
 
