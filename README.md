@@ -10,7 +10,7 @@ __Fake news__, or disinformation, is a growing problem in today's society. It ca
 
 ## Challenges
 
-There is a lot of text received by people in the form of media and news. Understanding the text and giving it a vectorial representation before they could be used for machine learning reduces the spread of fake news. However, there are challenges that arise when trying to build an end-to-end machine learning system which is capable of accurately predicting fake news. Below are some challenges that are faced for designing a fake news classifier:
+There is a lot of text received by people in the form of __media__ and __news__. Understanding the text and giving it a vectorial representation before they could be used for machine learning reduces the spread of fake news. However, there are challenges that arise when trying to build an __end-to-end machine learning system__ which is capable of accurately predicting fake news. Below are some challenges that are faced for designing a fake news classifier:
 
 1. Lack of high-quality labeled data
 2. Evolving nature of fake news
@@ -20,7 +20,7 @@ There is a lot of text received by people in the form of media and news. Underst
 
 ## Exploratory Data Analysis (EDA)
 
-It is a method at which we explore the data to find meaningful patterns and insights. As a result, these insights could be reported to the business or the data could be modified to accurately represent the real-world scenario. Exploratory Data Analysis (EDA) was performed to understand the number of fake news rows. The count for all the topics of articles were generated before classifying whether a given text is fake or real. Missing values were also identified.
+It is a method at which we explore the data to find meaningful patterns and insights. As a result, these insights could be reported to the business or the data could be modified to accurately represent the real-world scenario. __Exploratory Data Analysis (EDA)__ was performed to understand the number of fake news rows. The count for all the topics of articles were generated before classifying whether a given text is fake or real. Missing values were also identified.
 
 ## Constraints
 
@@ -28,7 +28,7 @@ The model should be able to handle a diverse range of news articles, including t
 
 ## Evaluation
 
-The performance of the model will be evaluated using standard classification metrics, such as precision, recall, and f1-score. The model will also be tested for its ability to generalize to unseen news articles.
+The __performance__ of the model will be evaluated using standard classification metrics, such as precision, recall, and f1-score. The model will also be tested for its ability to generalize to unseen news articles.
 
 * [__Accuracy__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
 * [__Precision__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
@@ -39,4 +39,4 @@ The performance of the model will be evaluated using standard classification met
 
 ## Outcomes
 
-Using machine learning for fake news classification can result in the creation of a model that can automatically identify fake news and flag it for further review or moderation. This can help to reduce the spread of false or misleading information and protect the integrity of online content. In general, well-trained machine learning models can be effective at identifying fake news with a high degree of accuracy. 
+Using machine learning for fake news classification can result in the creation of a model that can automatically identify fake news and flag it for further review or moderation. This can help to reduce the spread of __false__ or __misleading information__ and protect the integrity of online content. In general, well-trained machine learning models can be effective at identifying fake news with a high degree of accuracy. 
