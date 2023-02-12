@@ -40,7 +40,8 @@ The __performance__ of the model will be evaluated using standard classification
 ## Outcomes
 
 * Using machine learning for fake news classification can result in the creation of a model that can automatically identify fake news and flag it for further review or moderation. 
-* This can help to reduce the spread of __false__ or __misleading information__ and protect the integrity of online content. * In general, well-trained machine learning models can be effective at identifying fake news with a high degree of accuracy. 
+* This can help to reduce the spread of __false__ or __misleading information__ and protect the integrity of online content.
+* In general, well-trained machine learning models can be effective at identifying fake news with a high degree of accuracy. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
