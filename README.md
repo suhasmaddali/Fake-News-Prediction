@@ -38,6 +38,8 @@ Our dataset predominantly features news categories like politics and left-news. 
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Subject%20countplot.jpg"/>
 
+The majority of the entries in our dataset pertain to fake news, as compared to non-fake news. However, despite this disparity, the dataset appears to be fairly balanced. Consequently, there isn't a need to employ oversampling techniques to augment the number of samples from the underrepresented class.
+
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20vs%20fake%20news%20countplot.jpg"/>
 
 __True news wordcloud:__
