@@ -32,9 +32,11 @@ __Exploratory Data Analysis (EDA)__ is a critical process that allows us to delv
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20vs%20fake%20news%20countplot.jpg"/>
 
+__True news wordcloud:__
+
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20wordcloud.jpg"/>
 
-__True news wordcloud:__
+__Fake news wordcloud:__
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20title.jpg"/>
 
