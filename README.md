@@ -20,7 +20,7 @@ There is a lot of text received by people in the form of __media__ and __news__.
 
 ## Exploratory Data Analysis (EDA)
 
-It is a method at which we explore the data to find meaningful patterns and insights. As a result, these insights could be reported to the business or the data could be modified to accurately represent the real-world scenario. __Exploratory Data Analysis (EDA)__ was performed to understand the number of fake news rows. The count for all the topics of articles were generated before classifying whether a given text is fake or real. Missing values were also identified.
+__Exploratory Data Analysis (EDA)__ is a critical process that allows us to delve into data to uncover meaningful patterns and gain valuable insights. These insights can be instrumental in informing business decisions or enabling data modification to more accurately mirror real-world situations. EDA was employed specifically to discern the quantity of 'fake news' entries within the data. By first enumerating the topics of all articles, it laid the groundwork for classifying texts as either real or fake. Furthermore, the EDA process was crucial in identifying any missing values within the data set.
 
 ## Constraints
 
