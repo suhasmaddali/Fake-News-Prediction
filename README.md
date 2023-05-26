@@ -24,6 +24,8 @@ __Exploratory Data Analysis (EDA)__ is a critical process that allows us to delv
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20df.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20df.jpg"/>
+
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/newstype%20countplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Subject%20countplot.jpg"/>
