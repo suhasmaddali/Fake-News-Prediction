@@ -26,7 +26,7 @@ We have successfully loaded a dataframe containing verified news stories. A prev
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20df.jpg"/>
 
-Similarly, we are also interested in looking at the fake news dataset. We tend to see similar columns on this dataframe as well. We will combine the dataframes in order to perform machine learning analysis. 
+In a similar vein, we're keen on examining the dataset comprised of fake news. It appears to have similar columns to the true news dataset. For the purpose of conducting a comprehensive machine learning analysis, we plan to merge these two datasets together.
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20df.jpg"/>
 
