@@ -22,6 +22,8 @@ There is a lot of text received by people in the form of __media__ and __news__.
 
 __Exploratory Data Analysis (EDA)__ is a critical process that allows us to delve into data to uncover meaningful patterns and gain valuable insights. These insights can be instrumental in informing business decisions or enabling data modification to more accurately mirror real-world situations. EDA was employed specifically to discern the quantity of 'fake news' entries within the data. By first enumerating the topics of all articles, it laid the groundwork for classifying texts as either real or fake. Furthermore, the EDA process was crucial in identifying any missing values within the data set.
 
+We have loaded the dataframe that contain true news. Below are the first 5 rows that represent this information. There is a category called 'subject' that gives an indication of the 'subjects'. We also have information about the 'date' information as well that highlights the issue date of the news. 
+
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20df.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20df.jpg"/>
