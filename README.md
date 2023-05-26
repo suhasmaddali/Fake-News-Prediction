@@ -26,6 +26,8 @@ We have loaded the dataframe that contain true news. Below are the first 5 rows 
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20df.jpg"/>
 
+Similarly, we are also interested in looking at the fake news dataset. We tend to see similar columns on this dataframe as well. We will combine the dataframes in order to perform machine learning analysis. 
+
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20df.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/newstype%20countplot.jpg"/>
