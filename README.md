@@ -32,6 +32,10 @@ __Exploratory Data Analysis (EDA)__ is a critical process that allows us to delv
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20vs%20fake%20news%20countplot.jpg"/>
 
+__True news wordcloud:__
+
+<img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20title.jpg"/>
+
 ## Constraints
 
 The model should be able to handle a diverse range of news articles, including those with different writing styles, language, and formats. It should also be able to adapt to changes in the way fake news is presented over time.
