@@ -30,6 +30,8 @@ In a similar vein, we're keen on examining the dataset comprised of fake news. I
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20df.jpg"/>
 
+A significant portion of our data is primarily made up of political news, with world news forming a smaller share. This distribution gives us a comprehensive understanding of the nature of our dataset, setting a solid foundation for our forthcoming machine learning analysis.
+
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/newstype%20countplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Subject%20countplot.jpg"/>
