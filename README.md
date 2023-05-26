@@ -34,7 +34,7 @@ A significant portion of our data is primarily made up of political news, with w
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/newstype%20countplot.jpg"/>
 
-Various news categories such as politics, and left-news occur mostly in our dataset. There are relatively few 'US_News', 'Government News' and 'Middle-east' category news compared to others. 
+Our dataset predominantly features news categories like politics and left-news. In contrast, categories such as 'US_News', 'Government News', and 'Middle-east' are underrepresented, appearing less frequently compared to the other topics.
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Subject%20countplot.jpg"/>
 
