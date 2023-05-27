@@ -46,7 +46,7 @@ __True news wordcloud:__ Wordclouds offer a visual depiction of word frequencies
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20wordcloud.jpg"/>
 
-__Fake news wordcloud:__
+__Fake news wordcloud:__ The diagram presented below illustrates the frequency of words commonly associated with fake news. Notably, words like "say," "plan," and "Russian" are prevalent, often contributing to the falseness of such news articles. By examining this diagram, we can gain valuable insights into distinguishing between fake and genuine news based on the presence or absence of specific word patterns.
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20news%20title.jpg"/>
 
