@@ -42,7 +42,7 @@ The majority of the entries in our dataset pertain to fake news, as compared to 
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/True%20vs%20fake%20news%20countplot.jpg"/>
 
-__True news wordcloud:__
+__True news wordcloud:__ Wordclouds offer a visual depiction of word frequencies within different text prompts. The larger the size of a word in the wordcloud, the greater its likelihood of occurrence. Our analysis reveals that a significant proportion of words in our dataset are centered around Trump, Hillary, and Obama. This observation aligns with our previous findings, indicating that a majority of our samples originate from political news sources.
 
 <img src = "https://github.com/suhasmaddali/Fake-News-Prediction/blob/main/Images/Fake%20news%20wordcloud.jpg"/>
 
